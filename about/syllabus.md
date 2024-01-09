@@ -83,7 +83,7 @@ You will not be able to complete this course with another section's textbooks as
 
 The Shelly Cashman Series Collection, Microsoft Office 365 & Office 2019, 1st Edition
 
-[Link to purchase from UFV Bookstore](https://ufv.bookware3000.ca/CourseSearch/?course[]=ABBOTS,FALL23,CIS,CIS100AB4,&)
+[Link to purchase from UFV Bookstore](https://ufv.bookware3000.ca/CourseSearch/?course[]=ABBOTS,WINT24,CIS,CIS100AB2,&)
 
 ![CIS 100 Textbook](../images/CIS100-Textbook.png)
 
