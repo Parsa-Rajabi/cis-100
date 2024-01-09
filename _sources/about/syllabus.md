@@ -78,7 +78,7 @@ More details about the course can be found on [CIS 145 - UFV Academic Calendar](
 ## Required Materials
 
 ```{warning}
-You will not be able to complete this course with another section's textbooks as they differ. Make sure to select CIS 100 AB4 as your course/section and see "Parsa Rajabi" as instructor.
+You will not be able to complete this course with another section's textbooks as they differ. Make sure to select CIS 100 AB2 as your course/section and see "Parsa Rajabi" as instructor.
 ```
 
 The Shelly Cashman Series Collection, Microsoft Office 365 & Office 2019, 1st Edition
