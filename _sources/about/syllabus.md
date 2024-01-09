@@ -20,9 +20,9 @@ Elements of this document are **fixed** and unchanging. -->
 - Hybrid (in-person and online), refer to [course schedule](../lecture_notes.md) for modality of each class
 
 **Location**  
-- Abbotsford, Building D, Room 226
+- Abbotsford, Building D, Room 242
 - Zoom
-    - Link: [https://bit.ly/CIS-100-Zoom-Fall-2023](https://bit.ly/CIS-100-Zoom-Fall-2023)
+    - Link: TBA
 
 <!-- **Slack Invitation Link:** [Sign up for CIS 145 Slack Workspace](https://join.slack.com/t/cis-145-summer-2023/shared_invite/zt-1umoip7kj-u_q1OXCTZoPGmgSoI3ifUA) -->
 
@@ -35,7 +35,7 @@ Elements of this document are **fixed** and unchanging. -->
 
 Note: When emailing, please put CIS 100 at the start of your subject line.
 
-**Slack:** @parsa
+<!-- **Slack:** @parsa -->
 
 **Office Hours:** TBA
 <!-- **Office Hours:** Tuesdays 11:45-12:45pm in Building C, Room 2402 -->
@@ -45,9 +45,9 @@ Note: When emailing, please put CIS 100 at the start of your subject line.
 
 **Email:** navneet.jhangra `[at]` student.ufv.ca (replace `[at]` with `@`)
 
-Note: When emailing, please put CIS 145 at the start of your subject line.
+Note: When emailing, please put CIS 100 at the start of your subject line.
 
-**Slack:** @Navneet Jhangra
+<!-- **Slack:** @Navneet Jhangra -->
 
 <!-- Tuesdays 4-5pm in Building C, Room 2402 -->
 
