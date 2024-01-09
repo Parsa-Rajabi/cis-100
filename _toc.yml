@@ -3,12 +3,12 @@ root: about/welcome
 parts:
 - caption: Course Links
   chapters:
-  - url: https://bit.ly/CIS-100-Zoom-Fall-2023
-    title: Zoom Link
+  # - url: https://bit.ly/CIS-100-Zoom-Fall-2023
+    # title: Zoom Link
   - url: https://myclass.ufv.ca/
     title: UFV Blackboard
-  - url: https://cis100-fall2023.slack.com/
-    title: Slack Workspace 
+  # - url: https://cis100-fall2023.slack.com/
+    # title: Slack Workspace 
 - caption: About this course
   chapters:
   - file: about/syllabus
