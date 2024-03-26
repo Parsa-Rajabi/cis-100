@@ -21,8 +21,8 @@ All in-class code examples can be found on [this page](https://github.com/Parsa-
 | 9  | Mar 5    | 8       | MS PPT (4-7)  | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiWHpRZkZVR0VodW9SY2pyZlVjTUQxeU0rVEx0WW50S3pySDk4YUdiWmR4QmJIR1ZMdEZQeno2SkRhMmpmUEl1Y2FvbVFuS0NVVFd6a29ySVp5S1FhYjJhd3Ryb3hCTncyR3NUTU5VbzNHMHlHSmVXbjdsRWY2UGlVeVlQTkg1eVNMaC9acUwrclpqUDBkQVJpd3FRd1ljWUNZYzQ9IiwicyI6IjZZUVM2WDRLQ28rcUFRZUZBQmg2VEE9PSIsImkiOiJpVUQxUW42Y1VKL2RhWE9qIn0=)  | [Notes](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQitpdU54aUZqK1FMZUwvSmxaWmRZNHZWKzhhUlZEUVF4eDRMQ2tKQi93YW1YczlxOXlleVNiRzBPTTVER1gySFZXVUFtYXlTdXEzMGFpSUQ0Smx1bzBWSzZGNVZ5eVZVWUdaQnN5V1kzeUltdXVVY0dxdi9McUkxZ29pVy9HaHZ0QVhNQ1dobUhJZG96MGJTQ3oyNmhiY1d3cVE9IiwicyI6Ijk4YnZjTFh5ZWh4S2xxa2I5bTZuWlE9PSIsImkiOiJCYVowcEF2OTRSSmY2bHFHIn0=)  |
 | 10  | Mar 12  |        | Quiz #2 [No Lecture]   |  - | -  |
 | 11  | Mar 19  |        |  Check Email Announcement [No Lecture]   | -  | -  |
-| 12  | Mar 26  | 9-10   |  MS Excel (1-5)            |   |   |
-| 13  | Apr 2   | 10-11  |  MS Excel (6-11)           |   |   |
+| 12  | Mar 26  | 9-10   |  MS Excel (1-6)            |   | [Notes](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiYW56aEswTFlEKzlqR09nUjdyLy9zV3d1TGMvRi9GeE1iMU1kVUQ3MFk0dHFacURYUVFUdTR3TWxXc01ZZGJNRC8xSG1sZi9BZUVLVHpzK0x3dUlBbWpMekhidEE5enR1QVhZVFlkeFQ4MTl5SW1CaWtXSmVVMGJVNHpwYWZqU1Uvb2hUQUw4RDBKdzRxdFB0VWJMRWpDazdTblk9IiwicyI6InYxeXE4UjJUY1hoeUNnQk1vZWZPeGc9PSIsImkiOiJiVVVNTFNOUEl6Q1VkbXF1In0=)  |
+| 13  | Apr 2   | 10-11  |  MS Excel (7-11)           |   | [Notes](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoibzFZeFdXdGNLMFNoR21Cd2pkNXlLUXI5Q2FZOVUzaXg5c3BVWSt6S3hrRmNaMnJ4OEd4RDFxMkhVRmdTU1ZjbnJJNjZmMm91enZIaHlxazM1Z0psQVptMW14QkJ3NFU0TUFCeVNKTmdlU0Q1eXRRRW9lcTVDdHJIVVFYKzZRREdNb2N4NUszV2ZnZCs2S05WTjI5cHhFa1hVbms9IiwicyI6IjZrKzdBSUg1ZVJxb1c4ZzFYTTlBVmc9PSIsImkiOiJpMzJ6UnNDL1BCeWcvc0FNIn0=)  |
 
 <!-- | 12  | Mar 26  | 9-10  | Excel (1-5)  |   |   | -->
 <!-- | 13  | Apr 2  | 10-11  | Excel (6-11)  |   |   | -->
